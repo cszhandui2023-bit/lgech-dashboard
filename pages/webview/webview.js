@@ -1,4 +1,4 @@
-var HUB_URL = "https://lge-mobile-hub-20261016.pages.dev/";
+var HUB_URL = "https://cszhandui2023-bit.github.io/lgech-dashboard/";
 
 Page({
   data: { url: HUB_URL },
