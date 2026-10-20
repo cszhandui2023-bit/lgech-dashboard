@@ -1,0 +1,11 @@
+{
+  "pages": ["pages/webview/webview"],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#A50034",
+    "navigationBarTitleText": "LGECH Dashboard",
+    "navigationBarTextStyle": "white",
+    "backgroundColor": "#F4F5F7"
+  },
+  "style": "v2"
+}

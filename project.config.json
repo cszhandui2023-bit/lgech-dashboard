@@ -1,0 +1,15 @@
+{
+  "description": "LGECH Dashboard 小程序",
+  "packOptions": { "ignore": [], "include": [] },
+  "setting": {
+    "urlCheck": false,
+    "es6": true,
+    "enhance": true,
+    "postcss": true,
+    "minified": true
+  },
+  "compileType": "miniprogram",
+  "libVersion": "3.17.4",
+  "appid": "wx2231ab850ed556d3",
+  "projectname": "LGECH-Dashboard"
+}
